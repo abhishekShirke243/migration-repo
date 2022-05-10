@@ -1,3 +1,5 @@
 [submodule "SubModule"]
 	path = SubModule
 	url = https://github.com/abhishekShirke243/SubModule.git
+[submodule "Submod"]
+	url = ../SubModule.git
